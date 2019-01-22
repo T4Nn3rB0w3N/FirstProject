@@ -12,6 +12,6 @@ using namespace std;
 int main()
 {
     // insert code here...
-    cout << "Am I predictable?\n";
+    cout << "Time to learn C++.\n";
     return 0;
 }
